@@ -1,0 +1,15 @@
+{
+  "name": "nodeMailer-Trial",
+  "version": "1.0.0",
+  "description": "trying to send an email via nodeMailer and mailgun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "c_albert@yahoo.com",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "nodemailer": "^2.6.4"
+  }
+}
